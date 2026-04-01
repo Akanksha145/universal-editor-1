@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/universal-editor-site1/:/",
+    "/content/universal-editor-site1/configuration:/.helix/config.json",
+    "/content/universal-editor-site1/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/universal-editor-site1/"
   ]
 }
