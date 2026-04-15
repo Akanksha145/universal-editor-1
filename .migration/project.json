@@ -1,0 +1,9 @@
+{
+  "type": "xwalk",
+  "libraryUrl": "https://main--sta-xwalk-boilerplate--aemysites.aem.page/tools/sidekick/library.json",
+  "contentHostUrl": "author-p157362-e1665743.adobeaemcloud.com",
+  "aemSitePath": "/content/universal-editor-site1",
+  "aemAssetsFolderPath": "/content/dam/universal-editor-site1",
+  "aemSiteName": "universal-editor-site1",
+  "aemSiteTitle": "Universal Editor Getting Started 1"
+}

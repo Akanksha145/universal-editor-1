@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-media",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-04-15T09:42:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.novomedlink.com/semaglutide/patient-safety.html",
+    "originPage": "Patient safety information page",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "content-media-pair",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + text + button | image or video",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "article teasers with image",
+      "video description alongside player",
+      "content paired with media",
+      "alert banners with icon and text"
+    ],
+    "notSuitableFor": [
+      "pure text comparison columns",
+      "multi-column data layouts"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/semaglutide/patient-safety"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-15T09:42:00.000Z"
+  }
+}

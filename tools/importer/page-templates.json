@@ -1,0 +1,165 @@
+{
+  "templates": [
+    {
+      "name": "patient-safety-page",
+      "urls": [
+        "https://www.novomedlink.com/semaglutide/patient-safety.html"
+      ],
+      "description": "Patient safety information page for semaglutide medication",
+      "blocks": [
+        {
+          "name": "columns-media",
+          "instances": [
+            ".cmp-experiencefragment--banner .cmp-container"
+          ]
+        },
+        {
+          "name": "hero-banner",
+          "instances": [
+            "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_721834245"
+          ]
+        },
+        {
+          "name": "cards-resource",
+          "instances": [
+            ".resources-container .cmp-container"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Alert Banner",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab .cmp-experiencefragment--banner",
+          "style": "light-blue",
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Hero",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_721834245",
+          "style": null,
+          "blocks": [
+            "hero-banner"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-3",
+          "name": "Our Promise",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_1161268920",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-4",
+          "name": "Warning Callout",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_996920350",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-5",
+          "name": "Video - Get the Real Thing",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_770053700_copy_",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-6",
+          "name": "Article - Truth About Compounded",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_770053700_copy__841141511",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-7",
+          "name": "Article - Expert Warnings",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_770053700_copy__501416395",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-8",
+          "name": "Video - Healthcare Providers",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_770053700_copy__414472572",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-9",
+          "name": "Article - Counterfeit Risks",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_770053700_copy__2087236365",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-10",
+          "name": "Video - Our Commitment",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_770053700",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-11",
+          "name": "Article - Semaglutide FAQ",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_770053700_copy__1157007228",
+          "style": null,
+          "blocks": [
+            "columns-media"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-12",
+          "name": "Read Our Perspectives",
+          "selector": "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_2041321565",
+          "style": null,
+          "blocks": [
+            "cards-resource"
+          ],
+          "defaultContent": [
+            "#node-content-novomedlink-en-semaglutide-patient-safety-jcr_content-root-slab_2041321565-content-title"
+          ]
+        },
+        {
+          "id": "section-13",
+          "name": "ISI",
+          "selector": ".isi",
+          "style": null,
+          "blocks": [],
+          "defaultContent": [
+            ".isi"
+          ]
+        }
+      ]
+    }
+  ]
+}
