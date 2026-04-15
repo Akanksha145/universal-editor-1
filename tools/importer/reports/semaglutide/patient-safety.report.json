@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.novomedlink.com/semaglutide/patient-safety.html",
+  "path": "semaglutide/patient-safety",
+  "timestamp": "2026-04-15T09:57:46.841Z",
+  "title": "Semaglutide Patient Safety Updates | semaglutide.com",
+  "template": "patient-safety-page",
+  "blocks": [
+    "columns-media",
+    "columns-media",
+    "columns-media",
+    "hero-banner",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource",
+    "cards-resource"
+  ]
+}

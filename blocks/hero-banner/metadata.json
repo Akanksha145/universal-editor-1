@@ -1,0 +1,38 @@
+{
+  "variantName": "hero-banner",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-04-15T09:42:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.novomedlink.com/semaglutide/patient-safety.html",
+    "originPage": "Patient safety information page",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "image-background",
+    "density": "spacious",
+    "purpose": "patient-safety-hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + paragraphs + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "pharmaceutical landing pages",
+      "patient safety pages",
+      "medical content pages with hero imagery"
+    ],
+    "notSuitableFor": [
+      "text-only hero sections",
+      "minimal blog post headers"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/semaglutide/patient-safety"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-15T09:42:00.000Z"
+  }
+}
